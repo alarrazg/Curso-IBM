@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Python-Coursera"
+		}
+	],
+	"settings": {
+		"files.encoding": "utf8"
+	}
+}
