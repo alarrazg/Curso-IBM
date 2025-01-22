@@ -1,13 +1,16 @@
 {
-	"folders": [
-		{
-			"path": "../.."
-		},
-		{
-			"path": "../../../Python-Coursera"
-		}
-	],
-	"settings": {
-		"files.encoding": "utf8"
-	}
+  "folders": [
+    {
+      "path": "../.."
+    },
+    {
+      "path": "../../../Python-Coursera"
+    },
+    {
+      "path": "../../../../BBDDMongo"
+    }
+  ],
+  "settings": {
+    "files.encoding": "utf8"
+  }
 }
